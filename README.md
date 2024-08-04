@@ -1,2 +1,2 @@
-# Comex Transportes
- Site para a transportadora Come Transportes
+# Comex Transportes & Logística
+ Site para a transportadora Comex Transportes & Logística
